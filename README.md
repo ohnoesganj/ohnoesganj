@@ -1,7 +1,9 @@
 ## Welcome 👋
 
 <div align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunho3456)](https://solved.ac/sunho3456/)
+<a href="https://solved.ac/sunho3456">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunho3456">
+</a>
 </div>
 
 <div align="center">
