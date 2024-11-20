@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ohnoesganj&show_icons=true&theme=radical" />
@@ -8,7 +7,7 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
 
-### Android
+
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -18,7 +17,7 @@
 </div>
   
 
-### Web
+
 <div>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
@@ -30,7 +29,8 @@
 
 <br>
 
-### db
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
