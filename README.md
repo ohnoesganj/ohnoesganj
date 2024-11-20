@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ohnoesganj&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohnoesganj&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnoesganj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
