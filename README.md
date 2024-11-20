@@ -1,7 +1,11 @@
 ## Welcome 👋
+
+<div align="center">
   <a href="https://solved.ac/sunho3456">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunho3456" alt="Solved.ac Profile Badge">
 </a>
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ohnoesganj&show_icons=true&theme=radical" />
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohnoesganj&layout=compact" />-->
