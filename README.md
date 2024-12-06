@@ -10,9 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ohnoesganj&show_icons=true&theme=buefy" />
 </div> 
 
-<div align="center>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ohnoesganj&langs_count=10&layout=compact&theme=darkv />
-</div>
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohnoesganj&langs_count=10&layout=compact&theme=buefy" />
+</div> -->
 
 
 
@@ -27,7 +28,7 @@
   
 
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />
