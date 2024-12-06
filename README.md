@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohnoesganj&show_icons=true&theme=ambient_gradient" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ohnoesganj&show_icons=true&theme=buefy" />
 </div> 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
