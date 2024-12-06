@@ -14,10 +14,11 @@
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ohnoesganj&langs_count=10&layout=compact&theme=darkv />
 </div>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+
+
 <div align="center">
-
-
+<h3 align="center">✨ Tech Stack ✨</h3>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
