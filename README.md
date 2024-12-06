@@ -9,6 +9,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ohnoesganj&show_icons=true&theme=buefy" />
 </div> 
+
+<div align="center>
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ohnoesganj&langs_count=10&layout=compact&theme=darkv />
+</div>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
 
