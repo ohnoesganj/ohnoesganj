@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E4C3FA&height=120&section=header&text=Welcome👋&fontSize=30&fontColor=AA45FA&animation=fadeIn" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E4C3FA&height=120&section=header&text=Welcome👋&fontSize=30&fontColor=AA45FA&animation=fadeIn" />
+</div>
 
 <div align="center">
 <a href="https://solved.ac/sunho3456">
@@ -6,7 +8,7 @@
 </a>
 </div>
 
-<div></div>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohnoesganj&langs_count=10&layout=compact&theme=buefy" />
@@ -20,15 +22,14 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin-150458.svg?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 </div>
   
-
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=20232a" />
