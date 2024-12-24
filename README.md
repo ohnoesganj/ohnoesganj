@@ -1,4 +1,4 @@
-## Welcome 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E4C3FA&height=120&section=header&text=Welcome👋&fontSize=30&fontColor=AA45FA&animation=fadeIn" />
 
 <div align="center">
 <a href="https://solved.ac/sunho3456">
@@ -6,14 +6,12 @@
 </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohnoesganj&show_icons=true&theme=buefy" />
-</div> 
+<div></div>
 
-<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohnoesganj&langs_count=10&layout=compact&theme=buefy" />
-</div> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ohnoesganj&show_icons=true&theme=buefy&card_width=100px" />
+</div> 
 
 
 
